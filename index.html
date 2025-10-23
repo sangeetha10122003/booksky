@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Booksky</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="container">
+    <!-- Books will appear here dynamically -->
+    <div class="bookshelf"></div>
+
+    <!-- Overlay and Popup -->
+    <div class="overlay"></div>
+    <div class="popup" id="popupForm">
+      <h2>Add a Book</h2>
+      <form>
+        <input type="text" id="bookName" placeholder="Book Name" required>
+        <input type="text" id="authorName" placeholder="Author" required>
+        <textarea id="description" placeholder="Description" required></textarea>
+        <button id="addBookBtn">Add Book</button>
+        <button id="closePopup">Cancel</button>
+      </form>
+    </div>
+
+    <!-- Floating Add Button -->
+    <button id="addBtn" class="add-btn">+</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
