@@ -29,7 +29,7 @@ Booksky is a simple web app built using **HTML, CSS, and JavaScript** that lets 
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/sangeetha10122003/booksky/edit/main/README.md
+   git clone https://github.com/sangeetha10122003/booksky/tree/main
 
 ---
 
