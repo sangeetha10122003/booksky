@@ -32,20 +32,10 @@ Booksky is a simple web app built using **HTML, CSS, and JavaScript** that lets 
    git clone https://github.com/sangeetha10122003/booksky/edit/main/README.md
 
 ---
-##💡 How It Works
 
-Click the “+” button on the bottom right corner.
 
-A popup form will appear.
 
-Enter the Book Name, Author, and Description.
-
-Click Add Book to display your new book on the screen.
-
-Use the Delete button to remove any book.
----
-
-##🎨 Preview
+##**🎨 Preview**
 
 You can use your background image as a theme to make it more personalized.
 Example layout includes:
